@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333366;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-control {
+    width: calc(100% - 20px);
+    padding:10px; 
+  }
+ 
+.submit{
+  background-color: blue !important;
+  color: white;
+  font-size: 12px; 
+  flex-grow: 1; 
+  margin-right: 10px;
+  padding: 8px 16px;  
+
+} 
+ 
+.cancel{
+  background-color: red !important;
+  color: white;
+  font-size: 12px; 
+  flex-grow: 1; 
+  padding: 8px 16px; 
+}

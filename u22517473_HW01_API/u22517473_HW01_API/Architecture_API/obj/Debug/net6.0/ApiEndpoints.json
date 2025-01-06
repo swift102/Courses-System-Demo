@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Architecture_API.Controllers.CourseController",
+    "Method": "AddCourse",
+    "RelativePath": "api/Course/AddCourse",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "course",
+        "Type": "Architecture_API.Models.Course",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Architecture_API.Controllers.CourseController",
+    "Method": "DeleteCourse",
+    "RelativePath": "api/Course/DeleteCourse/{CourseId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CourseId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Architecture_API.Controllers.CourseController",
+    "Method": "GetAllCourses",
+    "RelativePath": "api/Course/GetAllCourses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Architecture_API.Controllers.CourseController",
+    "Method": "GetCourseByID",
+    "RelativePath": "api/Course/GetCourseByID/{CourseId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CourseId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Architecture_API.Controllers.CourseController",
+    "Method": "UpdateCourse",
+    "RelativePath": "api/Course/UpdateCourse",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "course",
+        "Type": "Architecture_API.Models.Course",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

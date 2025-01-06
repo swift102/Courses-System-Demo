@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vince\\Downloads\\UP\\3rd Year\\INF 354\\Assignments\\Assignment 1\\Architecture_API\\Architecture_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|c:\\users\\vince\\downloads\\up\\3rd year\\inf 354\\assignments\\assignment 1\\architecture_api\\architecture_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|c:\\users\\vince\\downloads\\up\\3rd year\\inf 354\\assignments\\assignment 1\\architecture_api\\architecture_api\\models\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|solutionrelative:models\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|c:\\users\\vince\\downloads\\up\\3rd year\\inf 354\\assignments\\assignment 1\\architecture_api\\architecture_api\\models\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|solutionrelative:models\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|c:\\users\\vince\\downloads\\up\\3rd year\\inf 354\\assignments\\assignment 1\\architecture_api\\architecture_api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900DB5C7-0826-413D-A8C8-730BDF7F7998}|Architecture_API.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\Downloads\\UP\\3rd Year\\INF 354\\Assignments\\Assignment 1\\Architecture_API\\Architecture_API\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\vince\\Downloads\\UP\\3rd Year\\INF 354\\Assignments\\Assignment 1\\Architecture_API\\Architecture_API\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:37:31.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\Downloads\\UP\\3rd Year\\INF 354\\Assignments\\Assignment 1\\Architecture_API\\Architecture_API\\Models\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Models\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\vince\\Downloads\\UP\\3rd Year\\INF 354\\Assignments\\Assignment 1\\Architecture_API\\Architecture_API\\Models\\CourseRepository.cs",
+              "RelativeToolTip": "Models\\CourseRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwCsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:35:14.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\Downloads\\UP\\3rd Year\\INF 354\\Assignments\\Assignment 1\\Architecture_API\\Architecture_API\\Models\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "Models\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\vince\\Downloads\\UP\\3rd Year\\INF 354\\Assignments\\Assignment 1\\Architecture_API\\Architecture_API\\Models\\ICourseRepository.cs",
+              "RelativeToolTip": "Models\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:36:36.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vince\\Downloads\\UP\\3rd Year\\INF 354\\Assignments\\Assignment 1\\Architecture_API\\Architecture_API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vince\\Downloads\\UP\\3rd Year\\INF 354\\Assignments\\Assignment 1\\Architecture_API\\Architecture_API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T01:30:34.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
