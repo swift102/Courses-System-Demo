@@ -38,31 +38,26 @@ SQL Server (or any other DB supported by EF Core)
 
 📦 Installation
 1. Backend
-bash
-Copy
-Edit
+
 cd u22517473_HW01_API
 dotnet ef database update     # Run DB migrations
 dotnet run                    # Start API
 Update your appsettings.json with your SQL connection string before running.
 
 2. Frontend
-bash
-Copy
-Edit
+
 cd u22517473_HW01_Angular
 npm install                   # Install dependencies
 ng serve                      # Start frontend
 Access the app at http://localhost:4200
 
 📁 Project Structure
-bash
-Copy
-Edit
+
 Courses-System-Demo/
 │
 ├── u22517473_HW01_API/        # .NET 6 Web API backend
 └── u22517473_HW01_Angular/    # Angular frontend
+
 🧪 Future Improvements
 🔐 Add JWT-based authentication
 
