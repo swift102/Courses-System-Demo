@@ -1,74 +1,86 @@
-🎓 Courses System Demo
+# 🎓 Courses System Demo
 
-A full-stack demo project showcasing a basic Course Management System using:
+A full-stack demo project showcasing a basic Course Management System using Angular and ASP.NET Core.
 
-🧩 Angular (Frontend)
+---
 
-🔧 .NET 6 Web API (Backend)
+## 🚀 Features
 
-🗄️ Entity Framework Core (ORM)
+* 📚 Browse, create, update, and delete courses
+* 🔁 RESTful API structure using ASP.NET Core
+* 🗄️ Entity Framework Core with migration support
+* 🧰 Clean and modular architecture (frontend & backend)
 
-✨ Features
-📚 Browse, create, update, and delete courses
+---
 
-🔁 RESTful API structure with ASP.NET Core
+## 📦 Tech Stack
 
-📦 Entity Framework Core with migration support
+| Layer    | Tech Stack                         |
+| -------- | ---------------------------------- |
+| Frontend | Angular, HTML, SCSS, TypeScript    |
+| Backend  | ASP.NET Core 6, C#                 |
+| Database | EF Core, SQL Server                |
+| Tools    | Angular CLI, .NET CLI, EF Core CLI |
 
-🧪 Modular and clean architecture
+---
 
-🧰 Tech Stack
-Layer	Tech Stack
-Frontend	Angular, HTML, SCSS, TypeScript
-Backend	ASP.NET Core 6, C#
-Database	EF Core, SQL Server
-Tools	Angular CLI, .NET CLI, EF CLI
+## 🛠️ Getting Started
 
-🚀 Getting Started
-🔧 Prerequisites
-Make sure you have the following installed:
+### 🔧 Prerequisites
 
-Node.js & npm
+* Node.js & npm
+* Angular CLI
+* .NET 6 SDK
+* SQL Server (or compatible DB for EF Core)
 
-Angular CLI
+### 📦 Installation
 
-.NET 6 SDK
+#### 1. Backend Setup
 
-SQL Server (or any other DB supported by EF Core)
-
-📦 Installation
-1. Backend
-
+```bash
 cd u22517473_HW01_API
-dotnet ef database update     # Run DB migrations
-dotnet run                    # Start API
-Update your appsettings.json with your SQL connection string before running.
+# Update your SQL connection string in appsettings.json
+dotnet ef database update   # Apply migrations
+dotnet run                  # Start the API
+```
 
-2. Frontend
+#### 2. Frontend Setup
 
+```bash
 cd u22517473_HW01_Angular
-npm install                   # Install dependencies
-ng serve                      # Start frontend
-Access the app at http://localhost:4200
+npm install                # Install dependencies
+ng serve                   # Launch Angular app
+```
 
-📁 Project Structure
+Access at: [http://localhost:4200](http://localhost:4200)
 
+---
+
+## 📁 Project Structure
+
+```
 Courses-System-Demo/
-│
 ├── u22517473_HW01_API/        # .NET 6 Web API backend
 └── u22517473_HW01_Angular/    # Angular frontend
+```
 
-🧪 Future Improvements
-🔐 Add JWT-based authentication
+---
 
-🧪 Frontend and backend unit/integration tests
+## 🧪 Future Improvements
 
-🎨 UI/UX improvements using Angular Material
+* 🔐 Implement JWT-based user authentication
+* 🧪 Add unit and integration tests
+* 🎨 UI enhancements using Angular Material
+* 🐳 Dockerize backend/frontend for deployment
 
-🌐 Dockerize for containerized deployment
+---
 
-🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+## 🤝 Contributing
 
-📄 License
+Pull requests are welcome! For major changes, please open an issue to discuss first.
+
+---
+
+## 📄 License
+
 Licensed under the MIT License.
